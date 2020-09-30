@@ -8,4 +8,10 @@ For question number 2. I found a really neat program based on a voronoi function
 
 Lastly, the pdf is the written work for the last two questions.
 
-Hope this readme helped! :)
+Hope this README helped! :)
+
+Sources: John Burkardt (Voronoi_plot): https://people.sc.fsu.edu/~jburkardt/py_src/voronoi_plot/voronoi_plot.html
+
+Scikit-learn:  https://scikit-learn.org/stable/modules/neighbors.html
+
+Voronoi diagrams with Scikit Learn: https://docs.scipy.org/doc/scipy/reference/generated/scipy.spatial.Voronoi.html
